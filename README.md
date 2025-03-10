@@ -1,6 +1,6 @@
 # Claude Deep Research
 
-Set environment variables in the claude-dr script appropriately, then run ./claude-dr.
+Set environment variables in the `claude-dr` script appropriately, then run `./claude-dr`.
 
 
 ## MCPs we use and where to get your API keys
